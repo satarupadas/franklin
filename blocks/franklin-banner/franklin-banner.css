@@ -1,0 +1,8 @@
+.franklin-banner {
+    background-color: rgb(161, 195, 233);
+    padding: 1px 30px 30px;
+}
+.franklin-banner__col:last-child {
+    display: flex;
+    justify-content: space-between;
+}
